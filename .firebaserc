@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "bento-starter",
+    "staging": "jayga-240907"
+  }
+}
